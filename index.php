@@ -5,7 +5,7 @@ if (isset($_GET['action'])) {
   session_destroy();
 }
 ?>
-
+  
 <!DOCTYPE html>
 <html lang="en">
   <head>
